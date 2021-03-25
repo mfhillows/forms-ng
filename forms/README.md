@@ -1,2 +1,2 @@
-Форма с возможностью выбора столицы по кнопке, с добавлением дополнительных инпутов по клику, с валидацией, оповещениями об ошибке с помощью структурных директив.
-В кастомной валидации одна из функций асинхронная.
+A form with the ability to select a capital by a button, with the addition of additional inputs on a click, with validation, error notifications using structural directives.
+In custom validation, one of the functions is asynchronous.
